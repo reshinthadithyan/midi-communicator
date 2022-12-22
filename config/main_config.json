@@ -1,0 +1,14 @@
+{
+    "keys" : {
+        "UP" : 48,
+        "DOWN" : 50,
+        "LEFT" : 52,
+        "RIGHT" : 53,
+        "PAGE_UP" : 55,
+        "PAGE_DOWN" : 57,
+        "TAB_CHANGE_RIGHT" : 59,
+        "TAB_CHANGE_LEFT" : 61,
+        "TAB_CLOSE" : 70
+        },
+    "chrome_path" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
+}
